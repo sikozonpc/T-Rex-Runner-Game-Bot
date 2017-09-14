@@ -6,7 +6,7 @@ MAX RECORD (beta record): 404 in 5 mins
 
 Open http://apps.thecodepost.org/trex/trex.html in Google Chrome and split the console and the browser like so:
 
-![Browser](https://css-tricks.com/wp-content/uploads/2016/01/cinch.gif
+![Bot](https://css-tricks.com/wp-content/uploads/2016/01/cinch.gif)
 
 THE BROWSER HAS TO BE ON THE LEFT SIDE!
 
