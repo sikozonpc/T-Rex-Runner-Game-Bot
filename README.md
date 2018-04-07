@@ -13,5 +13,5 @@ MAX RECORD (beta record): 404 in 5 mins
 
 > ALERT: However this is a very early version of the bot, and i will be adding an automatic way to recognize the game box on the screen and sharp it better since its kinda bad for now.
 
-#License 
+# License 
 Feel free to use my code in your personal projects. I would be very interested in any work that originates from this project. I would be more than happy to hear from your impressions and results.
